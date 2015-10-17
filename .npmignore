@@ -11,5 +11,12 @@ node_modules
 # idea
 .idea
 
+# build configs
+.codeclimate.yml
+.travis.yml
+
 # docs
 docs
+
+# tests
+test
