@@ -1,6 +1,6 @@
 {
   "name": "oryx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A convenient API scaffolding framework for Node.js and Express",
   "author": {
     "name": "Isaac Whitfield",
